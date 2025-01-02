@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Salary,Country
+1,Vignesh,20,Male,50000,India
+2,Dhanush,34,Male,60000,USA
+3,Eswar,,Male,45000,UK
+4,Sirisha,29,Female,,India
+5,Fakruddin,40,Male,70000,UK
+6,Harshitha,22,Female,38000,USA
+7,Sumanth,35,Male,52000,India
+8,Anusha,27,Female,48000,UK
+9,Afzal,30,Male,,USA
+10,Pavan,,Male,55000,India
