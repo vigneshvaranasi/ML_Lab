@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Salary,Country,Eligible
+1,Vignesh,20,Male,50000,India,Yes
+2,Dhanush,34,Male,60000,USA,No
+3,Eswar,,Male,45000,UK,Yes
+4,Sirisha,29,Female,,India,No
+5,Fakruddin,40,Male,70000,UK,Yes
+6,Harshitha,22,Female,38000,USA,No
+7,Sumanth,35,Male,52000,India,Yes
+8,Anusha,27,Female,48000,UK,Yes
+9,Afzal,30,Male,,USA,Yes
+10,Pavan,,Male,55000,India,No
